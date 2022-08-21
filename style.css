@@ -1,0 +1,138 @@
+*{
+    scroll-behavior: smooth;
+    background-color: rgb(12, 110, 94);
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Silkscreen', cursive; 
+}
+
+#nav{
+    background-color: black;
+}
+.ul{
+    position: 0;
+    position: fixed;
+    list-style-type: none;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.ul{
+    margin-top: 0px; 
+    padding-top: 0px;
+    right: 0px; 
+    top: 0px;
+}
+
+li{
+    display: inline;
+}
+
+li{
+    float: left;
+}
+  
+a{
+    display: block;
+    padding: 8px;
+}
+
+li a {
+    display: block;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #04AA6D;
+    color: #333;
+}
+
+.home{
+    background: none;
+    color: white;
+    text-align: center;
+    padding-top: 10rem;
+}
+
+#profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+
+.para1{
+    background: none;
+    color: white;
+    margin-top: 46px;
+    padding-top: 25px;
+    padding-left: 317px;
+    padding-right: 231px;
+}
+
+#about{
+    background: none;
+    color: white;
+    text-align: center;
+    padding-top: 10rem;
+    margin-top: 10px;
+}
+
+
+#img2{
+    width: 16%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 13px;
+}
+#para2{
+    background: none;
+    color: white;
+    margin-top: 46px;
+    padding-left: 317px;
+    padding-right: 231px;
+}
+
+#contact{
+    background: none;
+    color: white;
+    text-align: center;
+    padding-top: 10rem;
+    margin-top: 30px;
+}
+
+
+#img3{
+    width: 16%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 13px;
+}
+
+#para3{
+    background: none;
+    color: white;
+    margin-top: 46px;
+    padding-left: 317px;
+    padding-right: 231px;
+    margin-bottom: 100px;
+}
+#btn {
+    background-color: #002B5B;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
